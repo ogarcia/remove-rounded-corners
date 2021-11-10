@@ -2,7 +2,7 @@
   "name": "Remove Rounded Corners",
   "description": "Removes rounded corners from main panel or top bar",
   "uuid": "rrc@ogarcia.me",
-  "shell-version": ["40"],
+  "shell-version": ["40","41"],
   "url": "https://github.com/ogarcia/remove-rounded-corners",
-  "version": 2
+  "version": 3
 }
