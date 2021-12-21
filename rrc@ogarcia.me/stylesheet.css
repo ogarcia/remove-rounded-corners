@@ -1,1 +1,1 @@
-.no-radius.panel-corner { -panel-corner-radius: 0; }
+.remove-rounded-corners #panel .panel-corner { -panel-corner-radius: 0px; }
